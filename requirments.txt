@@ -1,8 +1,7 @@
-streamlit
-transformers
-torch==2.2.2+cpu
-scipy
-pandas
-altair
+streamlit==1.32.2
+transformers==4.39.3
+torch==2.2.2
+scipy==1.11.4
+pandas==2.1.4
+altair==5.2.0
 googletrans==4.0.0-rc1
---extra-index-url https://download.pytorch.org/whl/cpu
